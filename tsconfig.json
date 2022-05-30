@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./packages"
+  },
+  "references": [
+    { "path": "./packages/my_project_shared" },
+    { "path": "./packages/my_project_mobile" },
+    { "path": "./packages/my_project_web" }
+  ]
+}

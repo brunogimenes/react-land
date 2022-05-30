@@ -1,0 +1,20 @@
+{
+  "name": "my_project_shared",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  },
+  "description": "> TODO: description",
+  "author": "Bruno Gimenes <bruno.gimenes@live.com>",
+  "homepage": "",
+  "directories": {
+    "test": "__tests__"
+  },
+  "scripts": {
+    "dev": "npx tsc -w",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
